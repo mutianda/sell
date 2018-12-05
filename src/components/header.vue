@@ -1,9 +1,9 @@
 <template>
-<div>header</div>
+<div>headerdd</div>
 </template>
 <script>
 export default {
-  name: '',
+  name: 'dd',
   data () {
   }
 }
